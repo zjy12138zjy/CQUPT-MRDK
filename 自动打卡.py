@@ -102,7 +102,7 @@ if mrdk_status(key) == "0":
         'openid': openid,
         'timestamp': time.time(),
         'xh': xh,
-        'name': '陈泓宇',
+        'name': '郑钧予',
         'xb': '男',
         'szdq': r_dict["result"]["address_components"]["province"] + r_dict["result"]["address_components"]["city"] +
                 r_dict["result"]["address_components"]["district"],
